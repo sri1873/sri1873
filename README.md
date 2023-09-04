@@ -5,11 +5,19 @@
 
 
 <h3 align="left">Github Stats:</h3>
-  <p>
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sri1873&show_icons=true&theme=dark&include_all_commits=true" />
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sri1873&theme=dark" alt="sri1873" /></p>
 
- 
-  ------
+<div>
+      <img align="right" height="350" src="https://github.com/sri1873/sri1873/assets/86394512/c199ba09-6e33-4ebb-956b-9a0838d6531b" />
+  <p>
+      <img  align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=sri1873&show_icons=true&theme=dark&include_all_commits=true" />    
+  </p>
+  <p>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sri1873&theme=dark" alt="sri1873" />
+  </p>
+</div>
+
+ <div align="left">
+   
+  --------------------------
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sri1873&label=Profile%20views&color=0e75b6&style=flat" alt="sri1873" /> </p>
+ </div>
